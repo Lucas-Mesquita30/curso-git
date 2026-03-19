@@ -1,2 +1,2 @@
 # curso-git
-repositório do curso de Git da comunidade Dev Completo
+repositório do curso de Git da comunidade Dev Completo.
